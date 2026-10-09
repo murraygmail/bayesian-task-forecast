@@ -1,4 +1,4 @@
-# project: Bayesian task-duration forecasting
+# project: Bayesian task-duration forecast
 
 Python library and test scripts for forecasting how long a task will take
 from its three-point plan and its periodic progress reports. The model learns
